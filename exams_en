@@ -1,0 +1,382 @@
+Which two elements should typically be included in a computer security policy? (Choose two.)
+technical details of the biometric systems used
+a list of acceptable user passwords
+an acceptable computer usage statement for the organization
+details of the data file access procedures
+requirements necessary for data to remain confidential on a network
+
+Which type of power connector is used to connect devices such as optical drives and hard drives?
+24-pin
+Molex
+P8
+P9
+20-pin
+Berg
+
+A network administrator has been informed about a problem with the network printer. What is the most reliable way to prevent print jobs from being added to the queue while the printer is being repaired?
+Stop the print spooler.
+Unplug the printer from the print server.
+Send a network message to all users telling them to stop sending any print jobs to the printer.
+Send an email to all users telling them to stop sending any print jobs to the printer.
+
+A client has provided a 4 GB SODIMM module to a technician to perform a memory upgrade on a workstation, but the technician is having problems installing it. What is a probable cause for this?
+The workstation requires flash memory.
+The module is incompatible with the workstation.
+The workstation lacks an available slot.
+The workstation requires solid state memory.
+
+How should a hard drive be partitioned to support a Windows 7 installation over a network?
+An NTFS partition of at least 2 GB must be created.
+A FAT32 partition of at least 5 GB must be created.
+An NTFS partition of at least 3 GB must be created.
+A FAT16 partition of at least 2 GB must be created.
+
+A new technician has joined the IT team and is about to service a heavy printer. What advice would you give this technician to avoid any injury when transporting the heavy printer to the service area?
+Bend your back to pick the printer up.
+Use your arms and back to lift the printer.
+Bend your knees to use the strength in your legs to lift the printer.
+Avoid bending your knees when lifting the printer.
+
+A customer used the Convert utility to take advantage of NTFS security features. The customer later discovered that the applications on the computer can only read FAT32 files. After the hard drive was formatted back to FAT32, the customer noticed all of the data files were missing. What should the customer do next?
+Run convertfat32.
+Restart the computer after updating the hard drive to FAT32.
+Restore the data files that were backed up in preparation for the conversion.
+Reset the file attribute to show hidden files.
+
+A technician is trying to determine where a network cable terminates in the wiring closet. Which tool is best suited for this task?
+toner probe
+POST card
+multimeter
+loopback adaptor
+
+Which component uses the greatest amount of power on most mobile devices?
+camera
+media player
+CPU
+LCD screen
+
+A technician is troubleshooting a printer that prints unknown characters instead of the correct document. What are two probable causes for this? (Choose two.)
+The printer service is stopped.
+The computer has an incorrect driver installed.
+The paper is old, and moist from humidity.
+The printer has a loose data cable.
+The paper tray is empty.
+
+Which two memory types are installed using DIMM slots? (Choose two.)
+SDRAM
+cache memory
+FPM DRAM
+SRAM
+DDR SDRAM
+
+Employees in the financial department have reported that an unknown technician has been asking questions about the network. Which type of attack might the employees be observing?
+spamming
+spoofing
+phishing
+social engineering
+
+A customer reports that after booting a Windows Vista computer with a CD and running antivirus software to remove a boot sector virus, the computer still fails to boot from the hard disk. What should the technician do to try to solve this problem?
+Enter the hard drive password to unlock the hard drive.
+Boot the computer from the Vista installation media, select R – Recovery Console and then issue the fixmbr command.
+Enter the BIOS settings when the computer starts up and enable Boot Recovery.
+Boot the computer from the Vista installation media and select Repair your computer from the Install Windows screen.
+
+A technician needs to add a new wireless device to a small WLAN. The WLAN is a mixture of old and newer 802.11b and 802.11g devices. What choice for the new device would provide the most interoperability for present and future growth?
+Add a new 802.11g device.
+Add a new 802.11a device.
+Add a new 802.11n device.
+Add a new 802.11b device.
+
+A user notices that some of the programs that are installed before upgrading to Windows 7 no longer function properly. What can the user do to fix this problem?
+Update the driver for the graphics card.
+Reinstall the programs in Compatibility Mode.
+Lower the UAC setting in the Change User Account Control settings dialog box of the User Accounts control.
+Change the file system to FAT16.
+
+A technician installed a network adapter in a computer and wants to test network connectivity. The ping command can only receive a response from local workstations. What could be causing the problem?
+The NIC driver is out of date.
+The default gateway is not set.
+The operating system is not compatible with the remote sites.
+The TCP/IP protocol stack is not loaded.
+
+A technician has repaired a failing laser printer that was not able to pull the paper from the input tray. After installing the replacement parts, the technician tested the printer with a test page and everything worked as expected. Which would be a possible next step to complete the troubleshooting process?
+Search for information on how to configure the printer.
+Document any components that were used in the repair.
+Roll back the last device driver.
+Ask the customer to describe the problem.
+
+Which wireless security mode supports government grade security and offers both personal and enterprise authentication?
+LEAP
+WPA
+WEP
+WPA2
+
+What are three benefits of computer preventive maintenance? (Choose three.)
+improvement in RAM access time
+time savings for technicians making repairs
+extension of the life of components
+improvement in data protection
+elimination of the need for repairs
+reduction in the number of equipment failures
+
+Which type of security threat can be transferred through email and is used to gain sensitive information by recording the keystrokes of the email recipient?
+grayware
+virus
+adware
+Trojan
+worm
+
+A technician is troubleshooting a network where it is suspected that a defective node in the network path is causing packets to be dropped. The technician only has the IP address of the end point device and does not have any details of the intermediate devices. What command can the technician use to identify the faulty node?
+ipconfig /flushdns
+ping
+tracert
+ipconfig /displaydns
+
+Hard drives in a grocery warehouse keep failing because of the adverse warehouse environment. What would be a possible solution for this high failure rate?
+Install a more powerful power supply in each computer.
+Install an SSD drive in each computer.
+Install an antistatic mat under each computer.
+Install each computer in a specialized high airflow case.
+
+A technician is asked to configure the time that the system must be idle before the hard disk spins down on all the Windows-based laptops in the company. The technician configured the power options in Windows but it appears to have no effect. Where should the technician look to enable power management?
+Administrative Tools
+Command Prompt
+BIOS
+Safe mode
+System Registry
+
+What are three common input devices found on laptops? (Choose three.)
+AC power connector
+external monitor
+PS/2 keyboard
+touchpad
+fingerprint reader
+web camera
+
+On which two occasions is it most likely that a technician will have to perform a clean operating system installation if a backup has not been performed? (Choose two.)
+A user requires access to a new printer.
+A new replacement hard drive is installed in a computer.
+The existing security software requires upgrading.
+The existing operating system is corrupted.
+The computer is being moved to a different network.
+
+A customer reports poor telephone communications when using a copper telephone line that also has a DSL service. What is the most likely cause of the problem?
+The telephone does not comply with the IEEE 802.15.1 standard.
+The HSDPA (High Speed Data Packet Access) is interfering with the telephone operation.
+The DSL modem is incorrectly configured.
+The DSL filter is faulty or not connected.
+
+Which statement correctly describes the cancellation effect?
+The signals in the wires in each twisted-pair circuit generate magnetic fields which cancel each other out.
+Fiber optic cables use light-emitting diodes to cancel noise on the cable.
+Twisted-pair cabling pairs two positively-charged wires or two negatively-charged wires, which doubles the signal strength and cancels noise.
+Coaxial cables have a positively-charged end and a negatively-charged end, which cancel each other’s magnetic fields.
+
+Which is a characteristic of the Android operating system?
+It allows for the user to change the source code.
+Programmers cannot modify the source code.
+Android is one example of the iOS mobile operating system.
+A royalty must be paid to change the source code.
+
+A technician is asked to wire a network that supports CSMA/CD. Which architecture and physical topology should the technician use for supporting this access control method?
+Token Ring and Double Ring
+Wireless and Ring
+Ethernet and Star
+FDDI and Ring
+
+What is an accurate description of asymmetric encryption technology?
+It is an encryption protocol that is used to encrypt data as the data is sent over the VPN.
+It is an encryption process that uses identical keys on both ends to establish the VPN.
+It is an encryption process that uses a public and private key pair to encrypt/decrypt data.
+Asymmetric encryption is an encryption process that compares traffic on both ends to make sure the traffic has not been altered.
+
+Which software installation method is used when a customer runs Google play from a mobile device?
+synchronize
+pull
+push
+load
+
+When a Windows XP computer has completed the POST for each adapter card that has a BIOS, what is the next step during the boot sequence?
+BIOS reads the MBR.
+NTDLR reads the registry files.
+NTDETECT.COM is used to detect any installed hardware.
+The WINLOGON.EXE program is started.
+
+A technician wants to allow users to backup and restore all the files on their computers, but does not want the users to be able to make changes to the system. How should the technician give users this functionality?
+Make the users members of a group called Backup Operators.
+Check the Folder is Ready for Archiving box in the properties of each folder.
+Give the users administrator rights on their computers.
+Grant the users read permissions on all files.
+
+A technician recently implemented security on a new computer used by a web-based program developer. Initially the computer was allowed to access a number of programs over the network, but now the developer has found that new programs cannot be accessed. Which firewall setting should the technician apply to allow new programs while also keeping the computer secure?
+Notify the user when Windows Firewall blocks a program.
+Enable authentication between computers.
+Block all incoming programs.
+Turn on Windows Firewall.
+
+Which technology allows a user to securely access a company LAN across a public network?
+MD5
+VPN
+SHA
+TCP
+
+A technician is troubleshooting a 4-year-old computer that takes a long time to boot, and identifies that the BIOS rediscovers all the hardware at every boot. The technician thinks that the CMOS battery is losing the charge. What would be the next step in the troubleshooting process?
+Test the theory to determine the cause.
+Establish a plan of action to resolve the problem.
+Identify the problem.
+Establish a theory of probable cause.
+
+A computer technician has decided that a problem with a laptop can be solved by repairing a hardware component. What should be done first before attempting to repair a hardware component on a laptop?
+Ask a fellow technician for advice.
+Consult the service manual for the laptop.
+Remove the keyboard.
+Backup the BIOS settings.
+
+A business is concerned that computers are susceptible to malware infection. Which two actions will help solve this problem? (Choose two.)
+Configure a hard drive password.
+Configure antimalware software to run whenever the computer is experiencing heavy usage.
+Enable real-time virus and spyware scanning.
+Enable automatic antivirus and antispyware software updates.
+Encrypt the hard drive contents.
+
+A support desk trainer is teaching a new support desk technician some basic rules about starting a conversation with a customer. Which statement describes the rules the trainer should be teaching?
+Start by asking close-ended questions about what the customer understands of the problem and then direct the customer through the correction process.
+Learn the name of the customer and create a connection with the customer.
+Next ask questions that assess the knowledge level of the customer.
+Ask the customer what the problem is and then introduce yourself.
+Assess what the customer knows of the support desk process and then use close-ended questions to guide the customer through the correction process.
+
+Which three components are typically found in laser printer maintenance kits? (Choose three.)
+paper trays
+primary corona
+fuser assembly
+pickup rollers
+transfer rollers
+secondary corona
+
+A supervisor received a complaint that one of the technicians was rude and disrespectful. Which action by the technician most likely caused the customer to complain?
+The technician interrupted a number of times to ask questions.
+The technician ended the call without saying ‘Have a nice day’.
+The technician occasionally confirmed an understanding of the problem.
+The customer was escalated to a level-two technician.
+
+What precaution should a technician take when checking a thermal printer that suddenly stops functioning?
+Avoid the corona wire, which can retain a high voltage.
+Avoid the platen, which can retain a high voltage.
+Avoid the thermal head, which can become hot.
+Avoid the fuser unit, which can become hot.
+
+A technician wishes to secure the network authentication for all remote users. Which security technology uses radio communication with a computer before accepting a username and password?
+security dongles
+smart digital cards
+biometrics
+key fobs
+
+Which two actions must be performed before installing RAM into a laptop? (Choose two.)
+Disconnect AC power.
+Disconnect the display from the bottom of the laptop.
+Remove the battery.
+Use thermal compound to attach the memory to the motherboard.
+Before installing the RAM, update the saved CMOS settings to the newly configured amount of RAM.
+Remove the memory module retaining clips from the slots where the new RAM will insert.
+
+A call center technician is on a call with a customer when a colleague indicates that there is something to discuss. What should the technician do?
+Tell the customer that the call will be put on hold for a few minutes.
+Signal to the colleague to wait.
+Mute the line to the customer while discussing the issue with the colleague.
+Interrupt the customer and ask whether the customer would mind going on hold for a few minutes.
+
+What category of technician uses remote access software to update a computer belonging to a customer?
+level one technicians
+bench technicians
+level two technicians
+field technicians
+
+What determines to which device the computer searches first to locate boot files?
+partition size
+BIOS boot sequence option
+type of partition
+the order in which the operating system or operating systems were installed
+
+Which port is used only for input?
+parallel
+PS/2
+network
+DVI
+speaker
+
+When a dual core CPU with Hyper-Threading features is installed on a motherboard, how many instructions can the CPU simultaneously process?
+2
+4
+6
+8
+
+Which two pieces of software are included with most new printers and are installed by the user? (Choose two.)
+operating system
+configuration software
+word processor
+printer patches
+printer driver
+BIOS update
+
+Which measure can help control RFI effects on wireless networks?
+Ensure the humidity and temperature levels are set as low as possible.
+Ensure the wireless network is on a different frequency than the offending source.
+Ensure the number of wireless NICs exceeds the number of wireless phones.
+Ensure each wireless NIC is configured to operate at different frequencies from all other wireless NICs.
+
+What are two reasons why static IP addressing would be configured instead of DHCP when setting up a wireless network? (Choose two.)
+The network has relatively few wireless devices.
+DHCP limits the number of IP addresses that can be assigned.
+Specific security policies can be applied to static IP addresses.
+Static IP addresses enable large networks to be managed easily.
+DHCP is not reliable when used with wireless networks.
+
+At which TCP/IP model layer would a MAC address be found?
+internet
+transport
+application
+network access
+
+A technician is attempting to install an application that is not supported by the Windows XP operating system on the PC. How can the technician make this application run on the PC?
+Install the application with elevated permissions as administrator.
+Install the application in safe mode.
+Create a virtual machine with an operating system that supports the application.
+Use the Windows Compatibility mode.
+
+Which factor should be considered when selecting cooling fans for a PC case?
+the type of CPU that is installed
+the number of installed adapter cards
+the amount of installed RAM
+the current BIOS version
+
+A technician is replacing a failing keyboard on a laptop computer. After the installation, the technician finds that none of the keys on the keyboard are working. What should the technician do next?
+Check if the cable is properly connected.
+Enable the keyboard in the BIOS.
+Open Device Manager then use the option Scan for New Hardware.
+Install new drivers.
+
+A network administrator has a user that is changing the rights to files in a folder for other users. What rights does the administrator need to remove from the user?
+Full Control
+Modify
+Read and Write
+Read and Execute
+
+Which two wireless configuration features make it harder for a hacker to see and attach to a wireless network? (Choose two.)
+enabling the proxy firewall
+configuring MAC address filtering
+disabling the DHCP configuration
+disabling SSID broadcasts
+disabling port forwarding
+
+A user installs a new sound card driver in a computer that is working properly. After the installation of the drivers for the new sound card, the computer fails to boot. Which quick fix can the user implement to return to the previous working state?
+Boot to Start Windows Normally.
+Boot to Last Known Good Configuration.
+Boot to Emergency Recovery State.
+Boot to Recovery Console.
+
+A technician is tasked with connecting a printer directly to the network and making it accessible to all staff in the general vicinity. What type of network cable is most likely used to connect the printer?
+coaxial
+RJ-11
+fiber-optic
+twisted-pair
